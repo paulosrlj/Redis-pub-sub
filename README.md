@@ -1,5 +1,10 @@
 # Redis-pub-sub
 
+## Grupo
+-> Paulo Sérgio Rodrigues Leite Junior <br>
+-> Luciana Ferreira Miranda
+
+
 ## Requisitos para executar
 -> Java <br>
 -> Maven <br>
